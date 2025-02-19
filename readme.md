@@ -6,7 +6,7 @@ Robots-are-the-future is a simple web application built using HTML and CSS. It p
 
 Robots-are-the-future" frontend is a dynamic HTML website exploring robotics and technology. Featuring navigation, search, and content sections, it offers insights into futuristic themes, showcasing images and text about the robotics industry.
 
-version 1 is hosted [HERE!](https://anandraj012.github.io/Robots-are-the-future/)
+version 1 is hosted [HERE!](https://dollyraj012.github.io/Robots-are-the-future/)
 
 
 ## Getting Started
