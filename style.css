@@ -1,0 +1,165 @@
+*{
+    margin: 0;padding: 0;
+}
+.searchblock{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 68px;
+    /* background-color: blue; */
+    gap: 12px;
+}
+#mySearch{
+    height: 41px;
+    width: 40vw;
+    border-radius: 20px;
+    font-size: 15px;
+    padding-left: 47px;
+   
+}
+
+.searchblock img{
+    float: right;
+    height: 28px;
+   margin-right: 22px;
+}
+#menuicon {
+    /* float: right; */
+    height: 88px;
+   margin-right: 22px;
+}
+.searchblock img:hover{
+    cursor: pointer;
+}
+.lefthead{
+    display: flex;
+    background-color: black;
+
+}
+.lefthead img{
+    width: 50vw;
+}
+.righthead{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    gap: 40px;
+}
+.righthead h1{
+    font-style: bold;
+    margin-top: 140px;
+    font-size: 95px;
+    margin-right: 180px;
+}
+.righthead p{
+    font-size: 23px;
+}
+.humanRobotmain{
+    display: flex;
+    flex-direction: row;  
+    height: 85vh;
+    color: white;
+    background-color: rgb(31, 64, 52);
+    margin: 33px;
+}
+.humanrobotimage img{
+    width: 50vw;
+    height: 85vh;
+
+}
+.humanRobotcontent{
+    font-size: 23px;
+    display: flex;
+    flex-direction: column;
+    gap: 27px;
+    margin: 120px;
+    
+}
+.humanRobotcontent h2{
+    font-size: 63px;
+}
+.future_amin{
+    display: flex;
+}
+.future_left{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    height: 70vh;
+    width: 50vw;
+}
+.future_left h1{
+    margin: 56px;
+}
+.future_left p{
+    margin: 0px 56px 56px 56px;
+    
+}
+.future_Right{
+    background-color: rgb(123, 227, 235);
+    height: 70vh;
+    width: 50vw;
+}
+.differnt_Robot_main{
+    display: flex;
+    justify-content: center;
+    margin-top: -290px;
+}
+.differnt_Robot_main img{
+   height: 230px;
+   width: 230px;
+}
+.the_robot_ces_main{
+    display: flex;
+    margin:89px;
+}
+.cesleft_main{
+    display: flex;
+    flex-direction: column;
+}
+.ces_2019{background-color: rgb(143, 143, 93);
+    height: 40vh;
+    margin: 12px;
+}
+.ces_2019 h2{
+    color: white;
+    margin: 57px 23px 23px 23px;
+    /* margin-top: 43px; */
+    font-size: 70px;
+}
+.CES_leftlower_img img{
+    margin: 12px;
+    height: 40vh;
+    max-width: 28vw;
+}
+.ces_middle img{
+    background-color: black;
+    border-radius: 8px solid black;
+    margin: 12px;
+    height: 84vh;
+    max-width: 30vw;
+
+}
+.ces_right_content{
+    margin: 12px;
+    background-color: rgb(123, 227, 235);
+    font-size: 23px;
+    text-align: left;
+    padding: 47px;
+}
+.register{
+    display: flex;
+    justify-content: center;
+    margin-top: -80px;
+    margin-bottom: 33px;
+}
+.register button{
+    height: 33px;
+    width: 180px;
+    background-color: rgb(123, 227, 235);
+}
+.register button:hover{
+    cursor: pointer;
+    background-color: rgb(60, 209, 219);
+}
